@@ -108,8 +108,17 @@ npm run build
 ## 🔭 Future Features <a name="future-features"></a>
 
 
-- [ ] *Send and Receive data using API*
-- [ ] *add more UX*
+- **[Send and Receive data using API]**
+- **[add more UX]**
+- **[add live demo link]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://dianabeki.github.io/Portfolio-website/)
 
 
 <!-- CONTRIBUTING -->
