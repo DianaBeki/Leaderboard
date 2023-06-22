@@ -1,7 +1,7 @@
 import { getScores } from './request.js';
 
 const renderScores = async () => {
-    const scores = await getScores();
+  const scores = await getScores();
   const nameScoresElement = document.getElementById('nameScores');
   nameScoresElement.innerHTML = '';
 
@@ -12,4 +12,4 @@ const renderScores = async () => {
   });
 };
 
-export default renderScores; 
+export default renderScores;
