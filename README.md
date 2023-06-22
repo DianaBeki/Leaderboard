@@ -118,7 +118,7 @@ npm run build
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://dianabeki.github.io/Portfolio-website/)
+- [Live Demo Link](https://dianabeki.github.io/Leaderboard/dist/)
 
 
 <!-- CONTRIBUTING -->
