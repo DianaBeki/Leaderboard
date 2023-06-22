@@ -1,51 +1,149 @@
-# Leaderboard
-> JavaScript project for the Leaderboard list app, using webpack and ES6 features, notably modules.
+![Leadboard website](https://github.com/microverseinc/curriculum-javascript/blob/main/leaderboard/images/leaderboard_wireframe.png)
 
-## Built With
+# 📗 Table of Contents
 
-- HTML
-- CSS
-- JavaScript
-- Webpack
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-## Live Demo
+<!-- PROJECT DESCRIPTION -->
 
-- Link [here]()
+# 📖 Leaderboard website <a name="about-project"></a>
 
-## Getting Started
+This is a leaderboard app with ES6, the leaderboard website displays scores submitted by different players. It also allows you to submit your score. 
 
-To get a local copy up and running follow these simple example steps.
+
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>html</li>
+    <li>css</li>
+    <li>javascript</li>
+    <li>webpack</li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- *Add player name*
+- *Add player score*
+- *Great UI*
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a> 
 
 ### Prerequisites
-
-- A web browser
-- A code editor
+```
+Node.js
+Visual Studio Code
+Browser (e.g. Chrome)
+```
+ 
 
 ### Setup
+```
+git clone git@github.com:DianaBeki/Leaderboard.git
+cd Leaderboard
+```
 
-Assuming you have git installed on your computer, please follow the steps below:
 
-- Create a folder
-- Navigate to that folder in the command line using the `cd` command
-- Clone the repository using the following command: `git clone git@github.com:DianaBeki/Leaderboard.git`
-- In the command line run `npm install` and `npm start`
-- Go to localhost:8080 to see the application
+### Install
+```
+npm install
+```
 
-## Authors
 
-👤 **Trust**
+### Usage
+```
+npm start
+```
+
+
+### Deployment
+```
+npm run build
+```
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 👥 Authors <a name="authors"></a>
+
+
+👤 **Abdulwasiu Fasasi**
 
 - GitHub: [@Diana](https://github.com/DianaBeki)
+- Twitter: [@Diana](https://twitter.com/home)
+- LinkedIn: [@Diana](https://www.linkedin.com/in/diana-beki-b49684230/)
 
-## 🤝 Contributing
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] *Send and Receive data using API*
+- [ ] *add more UX*
+
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-Feel free to check the [issues page](https://github.com/DianaBeki/Leaderboard/issues).
 
-## Show your support
+Feel free to check the [issues page](../../issues/).
 
-Give a ⭐️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 📝 License
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+You can star this project if you like it 🥇🥇🥇👍
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank Microverse:smile: as well as my code partner(s)
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+
+## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
