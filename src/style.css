@@ -23,8 +23,9 @@ h1 {
 }
 
 .left {
-    max-height: 300px;
+  max-height: 300px;
 }
+
 #refreshBtn {
   border: 1px solid #001c30;
   border-bottom: 5px solid #001c30;
@@ -53,7 +54,7 @@ h1 {
 }
 
 .right {
-    position: relative;
+  position: relative;
 }
 
 #textForm {
